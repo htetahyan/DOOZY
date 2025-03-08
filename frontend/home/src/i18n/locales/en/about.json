@@ -1,0 +1,18 @@
+{
+  "title": "About Us",
+  "description": "Learn more about our company and mission",
+  "sections": {
+    "mission": {
+      "title": "Our Mission",
+      "content": "To provide innovative solutions that make a difference"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "To be the leading platform in our industry"
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "Meet the people behind our success"
+  }
+} 

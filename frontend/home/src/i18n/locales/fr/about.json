@@ -1,0 +1,18 @@
+{
+  "title": "À Propos de Nous",
+  "description": "En savoir plus sur notre entreprise et notre mission",
+  "sections": {
+    "mission": {
+      "title": "Notre Mission",
+      "content": "Fournir des solutions innovantes qui font la différence"
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "content": "Être la plateforme leader dans notre industrie"
+    }
+  },
+  "team": {
+    "title": "Notre Équipe",
+    "description": "Rencontrez les personnes derrière notre succès"
+  }
+} 

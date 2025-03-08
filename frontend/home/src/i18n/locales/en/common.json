@@ -1,0 +1,101 @@
+{
+  "navbar": {
+    "menuItems": {
+      "product": "Product",
+      "solutions": "Solutions",
+      "resources": "Resources",
+      "caseStudies": "Case Studies",
+      "pricing": "Pricing"
+    },
+    "actions": {
+      "login": "Login",
+      "tryFree": "Try Landbot free",
+      "getDemo": "Get a demo"
+    },
+    "productMenu": {
+      "products": "PRODUCTS",
+      "platform": "PLATFORM AND INTEGRATIONS",
+      "aiAssistant": {
+        "title": "AI Appointment Assistant",
+        "description": "Turn leads into quality appointments with an AI scheduling Assistant."
+      },
+      "whatsapp": {
+        "title": "WhatsApp Chatbots",
+        "description": "Automate conversations on the world's most popular chat app."
+      },
+      "website": {
+        "title": "Website Chatbots",
+        "description": "Generate leads and improve customer experience on the web."
+      },
+      "api": {
+        "title": "API & SDK Integrations",
+        "description": "Build, ship and scale conversational experiences to the world."
+      },
+      "chatbot": {
+        "title": "Chatbot Platform",
+        "description": "Design and deploy chatbots anywhere with a no-code builder"
+      }
+    },
+    "solutionsMenu": {
+      "byTeam": "BY TEAM",
+      "byUseCase": "BY USE CASE",
+      "marketing": {
+        "title": "Marketing",
+        "description": "Maximize your lead acquisition performance and generate qualified leads for Sales teams."
+      },
+      "sales": {
+        "title": "Sales",
+        "description": "Automate repetitive tasks, book meetings with high-intent leads, and close more deals with the help of AI."
+      },
+      "leadGen": {
+        "title": "Lead Generation",
+        "description": "Capture more leads at a lower cost & improve your marketing performance."
+      },
+      "engagement": {
+        "title": "Customer Engagement",
+        "description": "Engaged proactively with customers to enhance loyalty and retention."
+      },
+      "support": {
+        "title": "Customer Support",
+        "description": "Service customers with delightful support experiences & boost satisfaction."
+      }
+    },
+    "resourcesMenu": {
+      "getInspired": "GET INSPIRED",
+      "joinConversation": "JOIN THE CONVERSATION",
+      "learn": "LEARN WITH LANDBOT",
+      "blog": {
+        "title": "Blog",
+        "description": "Generative AI, inspiration for revenue leaders, and more."
+      },
+      "whitepapers": {
+        "title": "Whitepapers & reports",
+        "description": "Explore exclusive reports and whitepapers showcasing innovative strategies and insights for business growth."
+      },
+      "podcast": {
+        "title": "Ungated Conversations",
+        "description": "A podcast for revenue leaders looking to create conversational experiences at scale with the help of AI."
+      },
+      "whatsapp": {
+        "title": "WhatsApp Channel",
+        "description": "All the content you need to close more deals and retain customers - delivered on WhatsApp."
+      },
+      "community": {
+        "title": "Community",
+        "description": "Join passionate bot makers from all around the world."
+      },
+      "knowledge": {
+        "title": "Knowledge Center",
+        "description": "Access hundreds of support articles and workarounds."
+      },
+      "academy": {
+        "title": "Academy",
+        "description": "Master chatbot building with our library of video courses."
+      },
+      "templates": {
+        "title": "Chatbot Templates",
+        "description": "Easily create web and WhatsApp chatbots with ready-to-use templates."
+      }
+    }
+  }
+} 

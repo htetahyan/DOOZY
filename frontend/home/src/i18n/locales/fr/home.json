@@ -1,0 +1,13 @@
+{
+  "title": "Bienvenue sur Notre Plateforme",
+  "description": "Votre solution tout-en-un pour tous vos besoins",
+  "features": {
+    "feature1": "Facile à utiliser",
+    "feature2": "Hautement personnalisable",
+    "feature3": "Support 24/7"
+  },
+  "cta": {
+    "getStarted": "Commencer",
+    "learnMore": "En savoir plus"
+  }
+} 

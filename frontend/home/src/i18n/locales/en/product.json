@@ -1,0 +1,19 @@
+{
+  "ai_appointment_assistant": {
+    "badge": "AI APPOINTMENT ASSISTANT",
+    "title": "Turn leads into quality appointments instantly",
+    "description": "Experience the efficiency of automated, hassle-free booking, allowing your Sales teams to focus on what truly matters: closing more deals.",
+    "cta": {
+      "website": "Try Free for Website",
+      "whatsapp": "Try Free for WhatsApp"
+    },
+    "features": {
+      "noCard": "No Credit Card required",
+      "noCoding": "No Coding required"
+    },
+    "video": {
+      "url": "https://res.cloudinary.com/landbot-mkt/video/upload/v1707206036/Export_v5_hny2we.mp4",
+      "alt": "AI Appointment Assistant Demo"
+    }
+  }
+} 

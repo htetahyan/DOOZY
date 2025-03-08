@@ -1,0 +1,179 @@
+{
+  "title": "Welcome to Our Platform",
+  "description": "Your one-stop solution for all your needs",
+  "features": {
+    "feature1": "Easy to use",
+    "feature2": "Highly customizable",
+    "feature3": "24/7 support"
+  },  
+  "cta": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "hero": {
+    "badge": "AI CHATBOT GENERATOR",
+    "title": "Turn leads into revenue and keep customers satisfied",
+    "description": "Marketing, Sales, and Customer Service teams turn conversational experiences into revenue-driving outcomes with Landbot's AI Chatbot Generator.",
+    "cta": {
+      "tryFree": "Try Landbot free",
+      "getDemo": "Get a demo"
+    },
+    "features": {
+      "noCard": "No Credit Card required",
+      "noCoding": "No Coding required"
+    },
+    "chat": {
+      "botMessage": "Hi there, I'm Landbot!",
+      "userMessage": "Wanna see what I can do?",
+      "buttonText": "What can you do?",
+      "secondConversation": {
+        "messages": [
+          "I let companies build chatbots (like this one 😊) to convert & qualify leads automatically",
+          "Every conversation is personalized through conditional logic, ensuring each visitor gets the best flow for their need",
+          "The best part? Anyone can do it with our visual, no-code builder!"
+        ],
+        "backButton": "Back"
+      },
+      "demo": {
+        "gifUrl": "https://storage.googleapis.com/media.helloumi.com/1831/channels/7L6NP5P9DVMAXYWWE45FPGKVV690PUPU.gif"
+      }
+    },
+    "images": {
+      "ironMan": "https://storage.googleapis.com/media.landbot.io/1831/channels/0S8P41N4P688D4MAK3B4FS4L3HYFQWSZ.png",
+      "botAvatar": "https://static.landbot.io/daisho/img/avatar-landbot-1.png"
+    },
+    "partners": {
+      "google": "Google 5 stars rating",
+      "meta": "Meta Business Partner"
+    }
+  },
+  "patners": {
+    "title": "We work with some of the best",
+    "images":[
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png"
+      
+    ]
+  },
+  "features_section": {
+    "title": "Your bots do the manual work, so you don't have to",
+    "subtitle": "Save time for your teams and cut operating costs automating conversations across the entire customer journey.",
+    "cards": [
+      {
+        "title": "Generate 3x more leads",
+        "description": "Make lead generation a two-way street with engaging, human-like conversations.",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65140b692b6aa27248012fa0_Group%201034.png"
+      },
+      {
+        "title": "10x Booking appointments",
+        "description": "Increase meetings and show rates with leads who have high interest and buying intent.",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65140b200b79832c46597b97_Group%201035.png"
+      },
+      {
+        "title": "Provide 24/7 assistance",
+        "description": "Delight customers, combining bots and human agents for fast, friendly response times.",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65140b2083e5a23640bd3812_Group%201036.png"
+      }
+    ]
+  },
+  "conversational_section": {
+    "highlight": "3x",
+    "title": "Conversational experiences that",
+    "highlight_suffix": "efficiency",
+    "title_suffix": "with even better quality",
+    "description": "Deliver personalized, omnichannel experiences at scale on",
+    "platforms": ["WhatsApp", "web", "Facebook Messenger"],
+    "connect_text": "or connect through API",
+    "cta": "Try Landbot free",
+    "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65140b20d18e7a70ed56f4f9_Group%201037.png"
+  },
+  "ai_chatbots_section": {
+    "title": {
+      "start": "Generate",
+      "highlight": "AI Chatbots",
+      "end": "in a few clicks"
+    },
+    "description": "Let Landbot's AI Agents handle the tasks you don't want to. Automate chats, qualify leads, answer FAQs, and book meetings—fast, easy, and code-free.",
+    "cta": "Try it Free",
+    "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/67ca41f394423a8ff8b09ac9_banner-person.avif"
+  },
+  "integrations_section": {
+    "title": "Connect Landbot to the apps you love ❤️",
+    "description": "Reflect, update, and store data your chatbots collect to improve your day-to-day work efficiency.",
+    "cta": "Try Landbot free",
+    "link_text": "See all built-in integrations",
+    "integrations": [
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      }
+    ]
+  },
+  "differences_section": {
+    "title": "What makes Landbot different",
+    "features": [
+      {
+        "icon": "settings",
+        "title": "Easy, Flexible Setup",
+        "description": "Build and deploy versatile chatbots that impress and engage your customers in little time."
+      },
+      {
+        "icon": "network",
+        "title": "Built-In Integrations",
+        "description": "Connect your bots to existing techstacks, so you have all the data, right where you want it."
+      },
+      {
+        "icon": "bot",
+        "title": "Bot-to-Human Hand-off's",
+        "description": "Allow your bot to work alone, and/or handover to humans when needed."
+      },
+      {
+        "icon": "education",
+        "title": "Educational Resources",
+        "description": "Access ready-made templates, courses, articles, or contact us for additional support."
+      }
+    ]
+  },
+  "relationships_section": {
+    "lines": [
+      "Businesses are built on relationships...",
+      "Relationships are built on conversations...",
+      "...And conversational experiences are"
+    ],
+    "badge": "Made with Landbot ❤️",
+    "cta": "Try Landbot free",
+    "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6759a3df3174fd1f1d465dfb_AI%20Chatbot%20Generator%20Landbot%20Builder.png"
+  }
+} 
