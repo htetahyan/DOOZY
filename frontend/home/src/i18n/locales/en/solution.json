@@ -1,0 +1,154 @@
+{
+  "chatbot_for_marketing": {
+  "hero":{   "badge": "CHATBOT FOR MARKETING",
+    "title": "Convert more leads into qualified prospects",
+    "description": "You bring the traffic. Our AI-powered chatbots effectively engage leads across channels, so you can turn them into customers.",
+    "features": {
+      "noCard": "No Credit Card required",
+      "noCoding": "No Coding required"
+    },
+    "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/664f4cf8735d60eedbb5094e_Header%20image%201_chatbot%402x%20(1)-p-500.png"
+  },
+  "patners":{
+    "title":"Marketing teams love 💕 increasing lead conversion rates with Landbot"
+  },
+  "step_guides":{
+    "title":"How to set up your AI Scheduling Assistant in a few clicks",
+    "steps":{
+        "step1":{
+            "title":" Connect your Google Calendar",
+            "image":"https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65bcf60b29ce6920fb6b15ae_Step%2001.png",
+            "description":"Connect your Google Calendar to your Landbot account to automatically sync your availability."
+        },
+        "step2":{
+            "title":" Create a new appointment",
+            "image":"https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65bcf60b6ceae2fbb914ac6f_Step%2002.png",
+            "description":"Create a new appointment in your Google Calendar."
+        },
+        "step3":{
+            "title":" Add the AI Scheduling Assistant to your website",
+            "image":"https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65bcf60b450f31de60e1b519_Step%2003.png",
+            "description":"Add the AI Scheduling Assistant to your website to automatically sync your availability."
+        },
+        "step4":{
+            "title":" Test the AI Scheduling Assistant",
+            "image":"https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65bcf60b04d123327c91c3a6_Step%2004.png",
+            "description":"Test the AI Scheduling Assistant to ensure it's working properly."
+        }
+
+    }
+},"features_section": {
+      "title": "Lead conversion, qualification, and nurturing made easy",
+      "subtitle": "Impress your Sales and Customer Service teams by expertly managing leads, resulting in happy customers.",
+      "cards": [
+        {
+          "title": "Create AI marketing chatbots",
+          "description": "Deploy sophisticated bots instantly and increase conversions across channels.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/664f4d7ff7dabc5a0aa6f269_Group%202014%20(1).png"
+        },
+        {
+          "title": "Manage leads automatically",
+          "description": "Qualify leads on autopilot and and immediately reflect that data in your CRM.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6641f0ba371c876801a04907_Lead%20conversion%20image%202%402x.png"
+        },
+        {
+          "title": "Nurture leads to purchase",
+          "description": "Keep leads engaged and the conversation going until they're ready to buy.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6641f0ba4612bf6f70bc4b2d_Lead%20conversion%20image%203%402x.png"
+        }
+      ]
+    }
+
+}
+,"chatbot-for-sales":{
+    "hero": {
+      "badge": "CHATBOT FOR SALES",
+      "title": {
+        "start": "Automate tedious tasks to focus",
+        "middle": "on what matters; closing more",
+        "end": "deals"
+      },
+      "description":"AI Assistants and chatbots that help Sales teams drive revenue growth through increased productivity and efficiency.",
+      "features": {
+        "noCard": "No Credit Card required",
+        "noCoding": "No Coding required"
+      },
+      "images": {
+        "chat": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/664f4cf8735d60eedbb5094e_Header%20image%201_chatbot%402x%20(1)-p-500.png"
+      }
+    },
+    "fourGridFeatures": { 
+      "title":"Chatbots for Sales that help you sell more",
+"description":"Say goodbye to repetitive admin work and hello (again) to selling more and connecting with clients. Remember those days?",
+      "items": [
+      {
+        "description": "Speed up response times and book more meetings, not letting quality slip through the cracks.",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/664f4cf8735d60eedbb5094e_Header%20image%201_chatbot%402x%20(1)-p-500.png"
+      },
+      {
+        "description": "Allocate resources by prioritizing high-potential leads through automated qualification.",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6641f0ba371c876801a04907_Lead%20conversion%20image%202%402x.png"
+      },
+      {
+        "description": "Engage leads on their preferred channels: your website, WhatsApp, Facebook Messenger, or anywhere.",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6641f0ba4612bf6f70bc4b2d_Lead%20conversion%20image%203%402x.png"
+      },
+      {
+        "description": "Deliver personalized responses at scale, tailoring interactions to leads' needs and language",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6226395a5d56472517714f44_8-Feature-Analytics-Desktop%402x.png"
+      }]},
+      "features_section": {
+      "title": "Lead conversion, qualification, and nurturing made easy",
+      "subtitle": "Impress your Sales and Customer Service teams by expertly managing leads, resulting in happy customers.",
+      "cards": [
+        {
+          "title": "Create AI marketing chatbots",
+          "description": "Deploy sophisticated bots instantly and increase conversions across channels.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/664f4d7ff7dabc5a0aa6f269_Group%202014%20(1).png"
+        },
+        {
+          "title": "Manage leads automatically",
+          "description": "Qualify leads on autopilot and and immediately reflect that data in your CRM.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6641f0ba371c876801a04907_Lead%20conversion%20image%202%402x.png"
+        },
+        {
+          "title": "Nurture leads to purchase",
+          "description": "Keep leads engaged and the conversation going until they're ready to buy.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6641f0ba4612bf6f70bc4b2d_Lead%20conversion%20image%203%402x.png"
+        }
+      ]
+    }
+    ,"integrations_section": {
+      "title": "Connect Landbot to the apps you love 😍",
+      "description": "Collect, update, and store the data your AI Assistants and chatbots gather for 360º insights on performance.",
+        
+      "link_text": "See all built-in integrations",
+      "integrations": [
+        {
+          "name": "Slack",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+        },
+        {
+          "name": "Mailchimp",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png"
+        },
+        {
+          "name": "Hubspot",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6514332500c0045e070fe938_icon-hubspot.png"
+        },
+        {
+          "name": "sheets",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90d4af5301962dae84fcb_logo-gsheets.png"
+        },
+        {
+          "name": "Saleforce",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/5e3818e069b4c20d45f2f058_salesforce-p-500.png"
+        },
+        {
+          "name": "Zapier",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/5e26176984d78774246d782a_zapier_logo-p-500.png"
+        }
+       
+      ]
+    }
+} }

@@ -1,0 +1,186 @@
+{
+  "hero": {
+    "title": "Landbot Integrations",
+    "description": "Enhance your conversational experiences by connecting your chatbots with your favourite apps using our easy-to-set-up integrations.",
+    "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6375ea1d89d76b1e94d226f3_V3_Feature-Integrations-without%20BG%402x%20(1)-p-800.png"
+  },
+  "website_builders": {
+    "title": "Website Builders & CMS",
+    "description": "Launch a chatbot on your website in minutes using your favourite website builder and content management system."
+  },
+  "native_integrations": {
+    "title": "Native Integrations",
+    "description": "Connect Landbot to the tools you love using our native integrations and start exchanging data easily, without coding.",
+    "items": [
+      {
+        "name": "Zapier",
+        "description": "Connect Landbot with 4000+ apps and automate workflows.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "Webflow",
+        "description": "Integrate your chatbot in a Webflow website.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "WordPress",
+        "description": "Integrate your chatbot in a WordPress website.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "Stripe",
+        "description": "Process transactions inside your chatbot conversations.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "Slack",
+        "description": "Send Slack notifications from your chatbots.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "Shopify",
+        "description": "Integrate your chatbot in a Shopify website.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "Calendly",
+        "description": "Book meetings through your chatbots.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "Segment",
+        "description": "Track users & events inside your chatbots.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "SendGrid",
+        "description": "Send emails directly from your chatbots.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "Dialogflow",
+        "description": "Build sophisticated chatbots using natural language processing.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "Google Sheets",
+        "description": "Add, update, and retrieve data during chatbot conversations.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "HubSpot",
+        "description": "Add, update, and get HubSpot data during chatbot conversations.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "Mailchimp",
+        "description": "Collect and send user data to Mailchimp in real-time.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "Airtable",
+        "description": "Add, update, and retrieve data during chatbot conversations.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      },
+      {
+        "name": "Carrd",
+        "description": "Integrate your chatbot in a Carrd website.",
+        "icon": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90c778d9444a228fb9057_logo-mchimp.png",
+        "link": "View Integration"
+      }
+    ]
+  },
+  "integrationPages": {
+    "zapier": {
+      "title": "Zapier",
+      "subtitle": "Connect Landbot with 4000+ apps and automate workflows.",
+      "products": [
+        "WEBSITE",
+        "WHATSAPP"
+      ],
+      "category": ["Automation & AI"],
+      "about": {
+        "title": "About this integration",
+        "contents": [
+          "Zapier is a user-friendly web service that allows you to connect commonly used web apps and automate actions between them. Connecting Landbot with Zapier allows you to select Landbot from your list of triggers during the creation of a Zap and unlock a new realm of automation.",
+          "This integration will enable you to perform tasks such as exporting/importing data, sending notifications, analyzing inputs, and more.Popular ways to use Landbot and Zapier:"
+        ],
+        "listText": [
+          "Add a row to a Google Sheets spreadsheet from new Landbot responses;",
+          "Add new Landbot submissions to a MailChimp list;",
+          "Create Trello cards from new Landbot entries;",
+          "Add or update HubSpot CRM contacts for new submissions on Landbot;",
+          "Send emails through Gmail for new entries on Landbot."
+        ],
+        "keyFeatures": {
+          "title": "Key features",
+          "checkBoxs": [
+            "Trigger - when a visitor reaches the Zapier Integration block within a bot"
+          ]
+        },
+        "integrationPreview": {
+          "title": "Integration preview",
+          "image": "https://cdn.prod.website-files.com/5e42772e6a8cfd42a9715206/669a0e0b2c5a8afebf539a15_62a31ef537ece35920d7b31b_Zapier.avif"
+        },
+        "seeHowItworks": {
+          "title": "See How it Work",
+          "video": "https://youtu.be/kgrSODYmFUw"
+        }
+      }
+    },
+    "webflow": {
+      "title": "Webflow",
+      "subtitle": "Integrate your chatbot in a Webflow website.",
+      "products": [
+        "WEBSITE"
+      ],
+      "category": ["CMS & Page Builder"],
+      "about": {
+        "title": "About this integration",
+        "contents": [
+          "Generate leads and improve the customer experience on your Webflow website with Landbot.",
+          "By adding a chatbot to your website, you can:",
+          "To install a chatbot on Webflow, you first must create one. With Landbot's powerful platform and visual drag & drop interface, you can launch your chatbot in minutes.",
+          "Use one of our chatbot design templates or completely customize the look and feel of the chatbot to match your Webflow design."
+        ],
+        "listText": [
+          "Convert website traffic in real-time and increase your revenue.",
+          "Provide 24/7 automated support.",
+          "Collect feedback instantly.",
+          "And more."
+        ],
+        "keyFeatures": {
+          "title": "Key Features",
+          "checkBoxs": [
+            "Live chat",
+            "Pop up",
+            "Embedded",
+            "Full page"
+          ]
+        },
+        "integrationPreview": {
+          "title": "Integration preview",
+          "image": "https://cdn.prod.website-files.com/5e42772e6a8cfd42a9715206/669a0e0b2c5a8afebf539a15_62a31ef537ece35920d7b31b_Zapier.avif"
+        },
+        "seeHowItworks": {
+          "title": "See How it Works",
+          "video": "https://youtu.be/kgrSODYmFUw"
+        }
+      }
+    }
+  }
+} 

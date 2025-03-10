@@ -12,6 +12,10 @@ const NavBar = () => {
   const t = useTranslations('common.navbar')
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
+  const handleClosePopover = () => {
+    // Additional logic can be added here if needed
+  }
+
   return (
     <nav className="sticky top-0 z-50 bg-white border-b -mx-4 md:-mx-8 lg:-mx-16 xl:-mx-24">
       <div className="container mx-auto px-4 py-4">
@@ -29,15 +33,15 @@ const NavBar = () => {
 
             {/* Desktop Navigation */}
             <div className="hidden md:flex items-center gap-2">
-              <NavPopover trigger={t('menuItems.product')}>
+              <NavPopover trigger={t('menuItems.product')} onLinkClick={handleClosePopover}>
                 <ProductContent />
               </NavPopover>
 
-              <NavPopover trigger={t('menuItems.solutions')}>
+              <NavPopover trigger={t('menuItems.solutions')} onLinkClick={handleClosePopover}>
                 <SolutionsContent />
               </NavPopover>
 
-              <NavPopover trigger={t('menuItems.resources')}>
+              <NavPopover trigger={t('menuItems.resources')} onLinkClick={handleClosePopover}>
                 <ResourcesContent />
               </NavPopover>
 

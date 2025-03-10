@@ -1,4 +1,4 @@
-'use client'
+
 import { Button } from '@/components/ui/button'
 import { useTranslations } from 'next-intl'
 import { MessageSquare, Star, Facebook, MessageCircle, Slack } from 'lucide-react'
@@ -6,16 +6,18 @@ import { MessageSquare, Star, Facebook, MessageCircle, Slack } from 'lucide-reac
 import Patners from './Patners'
 import { FeaturesSection } from './FeaturesSection'
 import { ConversationalSection } from './ConversationalSection'
+import { getTranslations } from 'next-intl/server'
 
 type MessageType = {
   type: 'text' | 'image' | 'button'
   content: string
 }
 
-export function Hero() {
-  const t = useTranslations('home.hero')
-  const tFeatures = useTranslations('home.features_section');
-  const tConversational = useTranslations('home.conversational_section');
+export async  function Hero() {
+  const t = await getTranslations('home.hero')
+  const tFeatures = await getTranslations('home.features_section');
+  const tConversational = await getTranslations('home.conversational_section');
+  const tPatners=await getTranslations("home.patners")
   const messages: MessageType[] = [
     { type: 'text', content: t('chat.botMessage') },
     { type: 'text', content: t('chat.userMessage') },
@@ -117,7 +119,7 @@ export function Hero() {
   
   
      
-      <Patners />
+      <Patners title={tPatners('title')} />
       <FeaturesSection t={tFeatures} />
           <ConversationalSection t={tConversational} />
     </div>

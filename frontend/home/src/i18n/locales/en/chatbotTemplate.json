@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "Chatbot Template Library",
+    "description": "Easily create web and WhatsApp chatbots with these ready-to-use templates."
+  },
+  "filters": {
+    "useCases": ["Lead Generation", "Customer Support", "Product", "Surveys", "HR & Recruitment"],
+    "products": ["Web", "WhatsApp"]
+  },
+  "popularTemplates": {
+    "title": "Most popular templates",
+    "templates": [
+      {
+        "title": "NPS Survey",
+        "description": "Measure your customer's loyalty & satisfaction with this free NPS survey bot template.",
+        "category": "Surveys",
+        "platforms": ["WhatsApp", "Web"],
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65140b692b6aa27248012fa0_Group%201034.png"
+      },
+      {
+        "title": "Lead Scoring",
+        "description": "Identify high intent leads and follow up with a meeting with this free bot template.",
+        "category": "Lead Generation",
+        "platforms": ["Web"],
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65140b200b79832c46597b97_Group%201035.png"
+      },
+      {
+        "title": "Basic FAQ",
+        "description": "Answer your audiences most common queries with this customizable and free to use chatbot template.",
+        "category": "Customer Support",
+        "platforms": ["Web", "WhatsApp"],
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65140b2083e5a23640bd3812_Group%201036.png"
+      }
+    ]
+  },
+  "categories": {
+    "leadGeneration": {
+      "title": "Lead Generation",
+      "description": "Convert more visitors into qualified leads",
+      "templates": [
+        {
+          "title": "Sales Meeting Scheduling",
+          "description": "Automate sales discovery and meeting scheduling with your prospects.",
+          "category": "Lead Generation",
+          "platforms": ["Web"],
+          "image": "https://storage.googleapis.com/media.landbot.io/1831/channels/0S8P41N4P688D4MAK3B4FS4L3HYFQWSZ.png"
+        },
+        {
+          "title": "Property listing & Real Estate",
+          "description": "AI-powered WhatsApp chatbot template to help you get more leads for your Real Estate/Realtor Agency.",
+          "category": "Lead Generation",
+          "platforms": ["WhatsApp"],
+          "image": "https://storage.googleapis.com/media.landbot.io/1831/channels/7L6NP5P9DVMAXYWWE45FPGKVV690PUPU.gif"
+        },
+        {
+          "title": "Lead Generation for Marketing Agency",
+          "description": "Capture and qualify potential clients from visitors with this free bot template.",
+          "category": "Lead Generation",
+          "platforms": ["Web", "WhatsApp"],
+          "image": "https://storage.googleapis.com/media.landbot.io/1831/channels/0S8P41N4P688D4MAK3B4FS4L3HYFQWSZ.png"
+        }
+      ]
+    },
+    "customerSupport": {
+      "title": "Customer Support",
+      "description": "Help customers resolve their issues faster",
+      "templates": [
+        {
+          "title": "Basic Support Automation",
+          "description": "Address customer issues and resolve them in a timely and efficient manner with this free bot template.",
+          "category": "Customer Support",
+          "platforms": ["WhatsApp", "Web"]
+        }
+      ]
+    }
+  }
+} 

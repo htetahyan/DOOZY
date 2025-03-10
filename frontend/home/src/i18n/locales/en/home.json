@@ -48,16 +48,8 @@
     }
   },
   "patners": {
-    "title": "We work with some of the best",
-    "images":[
-      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
-      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
-      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
-      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
-      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
-      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png"
-      
-    ]
+    "title": "We work with some of the best"
+  
   },
   "features_section": {
     "title": "Your bots do the manual work, so you don't have to",
@@ -101,46 +93,7 @@
     "cta": "Try it Free",
     "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/67ca41f394423a8ff8b09ac9_banner-person.avif"
   },
-  "integrations_section": {
-    "title": "Connect Landbot to the apps you love ❤️",
-    "description": "Reflect, update, and store data your chatbots collect to improve your day-to-day work efficiency.",
-    "cta": "Try Landbot free",
-    "link_text": "See all built-in integrations",
-    "integrations": [
-      {
-        "name": "Slack",
-        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
-      },
-      {
-        "name": "Slack",
-        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
-      },
-      {
-        "name": "Slack",
-        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
-      },
-      {
-        "name": "Slack",
-        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
-      },
-      {
-        "name": "Slack",
-        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
-      },
-      {
-        "name": "Slack",
-        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
-      },
-      {
-        "name": "Slack",
-        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
-      },
-      {
-        "name": "Slack",
-        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
-      }
-    ]
-  },
+
   "differences_section": {
     "title": "What makes Landbot different",
     "features": [

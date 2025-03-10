@@ -2,12 +2,14 @@ import { Button } from '@/components/ui/button';
 import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
+import { TryLandBotFree } from '../ReuseableButtons';
 
 interface IntegrationsSectionProps {
   t: any;
+  hasButton?:boolean
 }
 
-export function IntegrationsSection({ t }: IntegrationsSectionProps) {
+export function IntegrationsSection({ t ,hasButton=true}: IntegrationsSectionProps) {
   return (
     <section className="py-24 px-4 md:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
@@ -40,7 +42,7 @@ export function IntegrationsSection({ t }: IntegrationsSectionProps) {
           </div>
 
           {/* Link to all integrations */}
-          <div className="text-end mb-12">
+          <div className={`${hasButton? 'text-end':"text-center"} mb-12`}>
             <Link 
               href="/integrations" 
               className="inline-flex items-center hover:text-primary/90 font-medium"
@@ -51,14 +53,9 @@ export function IntegrationsSection({ t }: IntegrationsSectionProps) {
           </div>
 
           {/* CTA Button */}
-          <div className="text-center">
-            <Button 
-              size="lg" 
-              className="h-12 px-8 text-base font-semibold"
-            >
-              {t('cta')}
-            </Button>
-          </div>
+       {hasButton&&    (<div className="text-center">
+           <TryLandBotFree />
+          </div>)}
         </div>
       </div>
     </section>

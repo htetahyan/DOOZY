@@ -97,5 +97,126 @@
         "description": "Easily create web and WhatsApp chatbots with ready-to-use templates."
       }
     }
+  },
+  "icons":{
+    "webflow":"https://cdn.prod.website-files.com/5e42772e6a8cfd42a9715206/669a0e0a3b9a9eccfae0e348_629722b6ea187112591e9bcd_CMS-Webflow%25402x.avif",
+    "zapier":"https://cdn.prod.website-files.com/5e42772e6a8cfd42a9715206/669a0e0b2c5a8afebf539a11_62971a9405b3a271373a3c6b_Integration-Zapier%25402x.png"
+  },
+  "whatsapp":{
+    "title":"Only for whatsapp",
+    "icon":"https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/629f145ab7048f59bff36433_WA-Icon.svg"
+} , "webIcon":{
+  "title":"only for website",
+  "icon":"https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/628f4827f98b74722061c38d_Website-Icon.svg"
+ } ,"buttons":{
+    "useWithLandBot":"Use With Landbot",
+    "tryFreeForWebsite":"Try Free for Website",
+    "tryFreeForWhatsApp":"Try Free for WhatsApp",
+    "getDemo":"Get a demo",
+    "tryLandBotFree": "Try Landbot Free"
+  },
+  "start_building": {
+    "title": "Start building your first chatbot now!"
+  },
+  "integrations_section": {
+    "title": "Connect Landbot to the apps you love ❤️",
+    "description": "Reflect, update, and store data your chatbots collect to improve your day-to-day work efficiency.",
+      
+    "link_text": "See all built-in integrations",
+    "integrations": [
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      },
+      {
+        "name": "Slack",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62d90a6a8ea6383d325a89c4_logo-slack.png"
+      }
+    ]
+  },
+  "patners":{
+    "images":[
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png",
+      "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png"
+      
+    ]
+  },
+  "features_grid": {
+    "items": [
+      {
+        "title": "Test environment",
+        "description": "Landbot's test environment lets you try your WhatsApp bot on your phone as you build it.",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6226395a89781c5bc3060699_5-Feature-TestEnvironment-Desktop%402x-p-800.png"
+      },
+      {
+        "title": "Team inbox",
+        "description": "Move conversations to human support and manage any number of agents and chats from one central team inbox.",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6226395a8ed60b6288a714e0_6-Feature-TeamInbox-Desktop%402x.png"
+      },
+      {
+        "title": "Integrations",
+        "description": "Store and transfer data in real-time with your native integrations, webhooks or API.",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6226395a8447b5104d3b702e_7-Feature-Integrations-Desktop%402x.png"
+      },
+      {
+        "title": "Analytics",
+        "description": "Get real-time reports and analyze your KPIs in the conversation with our intuitive analytics.",
+        "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6226395a5d56472517714f44_8-Feature-Analytics-Desktop%402x.png"
+      }
+    ]
+  },
+  "channels_section": {
+    "title": "Have your Assistant connect with leads on their favorite channels",
+    "channels": {
+      "website": {
+        "title": "Website",
+        "description": "Turn your website into a lead generating, appointment booking machine through an interactive experience."
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "Engage your leads the way they want to be interacted with to increase open and response rates."
+      }
+    }
+  },
+  "testimonials_section": {
+    "title": "What our clients say about Landbot",
+    "testimonials": [
+      {
+        "quote": "Before, FAQs would normally be answered on the phone or on the booked appointments. Now, they're getting answered ahead of those appointments.",
+        "author": {
+          "name": "Catherine Shinerock",
+          "position": "Marketing Manager at ARO™ (Choices)",
+          "avatar": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65bb6a24f67961724fe25b4d_Group%20689.png"
+        }
+      }
+    ]
   }
 } 

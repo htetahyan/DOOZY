@@ -2,17 +2,40 @@ import { useTranslations } from 'next-intl'
 import React from 'react'
 import Image from 'next/image'
 
-const Patners = () => {
-    const t = useTranslations('home.patners')
+interface PatnersProps {
+  title: string;
+}
+
+const Patners = ({ title }: PatnersProps) => {
+  const images = [
+    'https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png',
+    'https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png',
+    'https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png',
+    'https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png',
+    'https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png',
+    'https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6516ae1a8c6b54eb5295f9c5_Logos%201.png'
+  ];
+
   return (
-    <div className='container mx-auto px-4 py-16'>
-      <h2 className='text-2xl font-bold text-center text-accent-'>{t('title')}</h2>
-      <div className='flex gap-4 w-full justify-center'>
-        {t.raw('images').map((image: string, index: number) => (
-          <Image key={index} className='w-30 h-auto' src={image} alt={`Patner ${index + 1}`} width={100} height={100} />
-        ))}
+    <section className="py-16">
+      <div className="container mx-auto">
+        <h2 className="text-2xl md:text-3xl font-bold text-center mb-12">
+          {title}
+        </h2>
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8 items-center">
+          {images.map((image, index) => (
+            <div key={index} className="relative h-12">
+              <Image
+                src={image}
+                alt={`Partner ${index + 1}`}
+                fill
+                className="object-contain"
+              />
+            </div>
+          ))}
+        </div>
       </div>
-    </div>
+    </section>
   )
 }
 

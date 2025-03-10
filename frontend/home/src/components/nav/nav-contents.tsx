@@ -67,7 +67,7 @@ export function ProductContent() {
               icon={<Calendar className="h-5 w-5 text-indigo-500" />}
               title={t('aiAssistant.title')}
               description={t('aiAssistant.description')}
-              href="/ai-assistant"
+              href="/ai-appointment-assistant"
               badge="New"
             />
             <NavItem

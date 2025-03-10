@@ -13,7 +13,7 @@ export function FeaturesSection({t}: {t: any}) {
   const cards: FeatureCard[] = t.raw('cards') as FeatureCard[];
 
   return (
-    <section className="py-16 px-4 md:px-6 lg:px-8">
+    <section className="py-16 px-4 md:px-8 lg:px-16 xl:px-24">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-[#1B1B1B] mb-4">

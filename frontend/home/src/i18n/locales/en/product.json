@@ -14,6 +14,146 @@
     "video": {
       "url": "https://res.cloudinary.com/landbot-mkt/video/upload/v1707206036/Export_v5_hny2we.mp4",
       "alt": "AI Appointment Assistant Demo"
+    },
+    "step_guides":{
+        "title":"How to set up your AI Scheduling Assistant in a few clicks",
+        "steps":{
+            "step1":{
+                "title":" Connect your Google Calendar",
+                "image":"https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65bcf60b29ce6920fb6b15ae_Step%2001.png",
+                "description":"Connect your Google Calendar to your Landbot account to automatically sync your availability."
+            },
+            "step2":{
+                "title":" Create a new appointment",
+                "image":"https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65bcf60b6ceae2fbb914ac6f_Step%2002.png",
+                "description":"Create a new appointment in your Google Calendar."
+            },
+            "step3":{
+                "title":" Add the AI Scheduling Assistant to your website",
+                "image":"https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65bcf60b450f31de60e1b519_Step%2003.png",
+                "description":"Add the AI Scheduling Assistant to your website to automatically sync your availability."
+            },
+            "step4":{
+                "title":" Test the AI Scheduling Assistant",
+                "image":"https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65bcf60b04d123327c91c3a6_Step%2004.png",
+                "description":"Test the AI Scheduling Assistant to ensure it's working properly."
+            }
+
+        }
+    },
+    "features_section": {
+      "title": "What an AI Scheduling Assistant (who never sleeps) can do for you",
+      "subtitle": "",
+      "cards": [
+        {
+          "title": "Smart Lead Engagement",
+          "description": "Personalize conversations with leads, adapting to their needs and language in a friendly way.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65140b692b6aa27248012fa0_Group%201034.png"
+        },
+        {
+          "title": "Answer Questions 24/7",
+          "description": "Respond to your leads' questions around the clock with accurate human-like answers.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65140b200b79832c46597b97_Group%201035.png"
+        },
+        {
+          "title": "Seamless Appointment Booking",
+          "description": "Provide a smooth, conversational booking experience for your leads and increase your conversion",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65140b2083e5a23640bd3812_Group%201036.png"
+        }
+      ]
+    },
+    "why_choose_section": {
+      "title": "Why choose Landbot's AI Scheduling Assistant?",
+      "features": [
+        {
+          "title": "Zero technical skills required",
+          "description": "Launch your Assistant in minutes and leave the coding and boring stuff to us."
+        },
+        {
+          "title": "Friendly, fun automation",
+          "description": "Strike the perfect balance between automation and humans for increased efficiency."
+        },
+        {
+          "title": "Centralized data insights",
+          "description": "Monitor conversations, analyze performance, and implement improvements on one platform."
+        }
+      ]
+    },
+    "ai_assistant_section": {
+      "lines": [
+        "Businesses are built on relationships...",
+        "Relationships are built on conversations...",
+        "...And AI assistants make them"
+      ],
+      "badge": "Made with Landbot ❤️",
+      "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/65bb65ed78ca129c46c3d2e0_Girl%20and%20builder-p-500.png"
+    }
+  }
+  ,"whatsapp": {
+    "hero": {
+      "badge": "WHATSAPP AUTOMATION",
+      "title": {
+        "start": "Start talking",
+        "middle": "to your customers",
+        "on": "on",
+        "whatsapp": "WhatsApp",
+        "end": "today"
+      },
+      "description": "Create conversational marketing campaigns, engage existing customers and provide excellent customer service, all inside WhatsApp",
+      "images": {
+        "phone": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/6217a65969439c41ae5b812a_Hero-Image%402x.png",
+        "background": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/620cbd2b8e94552ea4ccd94f_Hero-BG-Mobile.svg"
+      },
+      "cta": {
+        "primary": "Try Landbot Free",
+        "secondary": "Get a Demo"
+      }
+    },
+    "marketing_section": {
+      "badge": "MARKETING",
+      "title": "Reach more people and convert more customers",
+      "description": "Landbot brings your marketing campaigns into the most engaging channel there is, using rich content, automation and personalization.",
+      "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62188e6618361574b7f57d9c_Benefit-MKT%402x.png"
+    },
+    "support_section": {
+      "badge": "SUPPORT & OPERATIONS",
+      "title": "Save time and increase customer satisfaction",
+      "description": "Be where your customers are, 24 hours a day, 7 days a week. WhatsApp chatbots improve response time and customer satisfaction while saving operational costs.",
+      "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62188a45d7885331fc11ef75_Benefit-Support%402x-p-800.jpeg"
+    },
+    "platform_section": {
+      "title": "Powerful and intuitive chatbot platform",
+      "subtitle": "Building, deploying and running a WhatsApp strategy doesn't have to be complicated or expensive. Landbot's efficient and user-friendly no-code chatbot solution puts your team in control.",
+      "features": [
+        {
+          "id": "builder",
+          "label": "🛠️ No-code builder",
+          "title": "No-code builder",
+          "description": "Design sophisticated flows with conditional logic, formulas, and rich media, with a visual drag and drop interface.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/621891cc9a384988b2e4371d_1-No-Code%402x.png"
+        },
+        {
+          "id": "widget",
+          "label": "⚡ Opt-in widget",
+          "title": "Opt-in widget",
+          "description": "Create a list of WhatsApp subscribers with our web widget and grow your list for permission marketing messages.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62188bd7e58f7896507f1000_2-Opt-in-Widget%402x.png"
+        },
+        {
+          "id": "campaign",
+          "label": "📱 Campaign manager",
+          "title": "Marketing campaigns",
+          "description": "Reach your audience with segmented WhatsApp campaigns. Create, schedule and launch.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62188a882c90c3422ec4c7fa_3-MKT-Campaigns%402x.png"
+        },
+        {
+          "id": "notifications",
+          "label": "🔔 Notifications",
+          "title": "Notifications",
+          "description": "Send predefined alerts and notifications straight to your customers’ phones and keep the conversation going.",
+          "image": "https://cdn.prod.website-files.com/5e1c4fb5db4d5243c0021d34/62188a88ac1032362c09c5ed_4-Notifications%402x.png"
+        }
+      ]
     }
   }
 } 
